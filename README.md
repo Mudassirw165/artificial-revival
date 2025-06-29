@@ -1,3 +1,8 @@
+## 🎥 Project Walkthrough (Animated Demo)
+
+![Cryonics Simulation](full_project_animation.gif)
+
+
 # Revive-Bio: Digital Life Restoration Framework
 
 This project explores the possibility of digital and biological resurrection — not as fantasy, but as the scientific pursuit of life extension through cryonics, neural simulation, and AI.
